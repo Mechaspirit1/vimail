@@ -33,7 +33,7 @@ def main():
 """                                                        
 
     print(banner)
-    print("vimail")
+    print("vimail 1.0.2")
     print("\033]8;;https://github.com/Mechaspirit1\033\\A tool by Pablo Loschi (Mechaspirit1)\033]8;;\033\\")
     
     while True:
